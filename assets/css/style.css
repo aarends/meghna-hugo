@@ -13,9 +13,9 @@ html {
 }
 
 body {
-  background-color: #353b43;
+  background-color: #303A41;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #a0adb9;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #303A41;
 }
 
 .bg-dark {
@@ -648,8 +648,8 @@ a:hover {
 }
 
 .call-to-action p {
-  font-size: 16px;
-  color: #666;
+  font-size: 20px;
+  color: #4d4a4a;
 }
 
 .call-to-action .btn-main {
@@ -913,6 +913,10 @@ a:hover {
 /*=================================================================
   Portfolio section
 ==================================================================*/
+.portfolio {
+  background-color: #292f36;
+}
+
 .portfolio-filter {
   margin-bottom: 40px;
   text-align: center;
