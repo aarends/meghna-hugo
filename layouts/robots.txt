@@ -1,6 +1,29 @@
+User-agent: Gigabot
+Disallow: /
+User-agent: Robozilla
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: Seekbot
+Disallow: /
+User-agent: Sistrix
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+User-agent: BacklinkCrawler
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: xovi
+Disallow: /
+
 User-agent: *
-{{ range .Pages }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
+Disallow: 
+Crawl-delay: 5
+Disallow: /author/
+Disallow: /tags/
+Disallow: /categories/
 
 Sitemap: https://www.erelisdigital.com/sitemap.xml
