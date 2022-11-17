@@ -1,4 +1,9 @@
-<h1 align=center>Meghna Hugo Theme | <a target="_blank" href="https://demo.gethugothemes.com/meghna" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fmeghna%2F">Page Speed (80%)</a></h1>
+<h1 align=center>Meghna Hugo Theme</h1>
+
+<p align="center">Meghna is a dark single page professional Hugo website theme and crafted with all the necessary elements and features you will need to present your business.</p>
+
+
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/meghna" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fmeghna%2Fsite%2F&form_factor=desktop">Page Speed (99%)</a> </h2>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.84.0" alt="Contributors">
@@ -27,7 +32,7 @@
 
 ---
 
-## Features
+## Key Features
 
 - Multilingual support. (with language selector)
 - Taxonomies
@@ -86,23 +91,16 @@ issues](https://github.com/themefisher/meghna-hugo/issues). Someone may have alr
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/meghna-hugo/issues).
 
-## Meghna Hugo theme Powered Websites
+## Submit Your Website To Our Showcase
 
-- <https://thetechbattalion.com/>
-- <https://adaptechgroup.com/>
-- <https://adenuz.com/>
-- <https://junior-aei.com/>
-- <https://akademiainformatyki.edu.pl/>
-- <https://naval-engineering.com/>
-- <https://www.istrosec.com/>
-- <https://www.puylevequepatrimoine.com/>
-- <https://www.beltlabs.com/>
-- <https://cloud-fundis.co.za>
-- <https://www.cocoon-arolla.com>
-- <https://www.plurisante202.fr>
-- <https://www.lyaaaaagames.com/>
+Are you using Meghna Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
-View all the websites powered by [Meghna Hugo theme](https://github.com/themefisher/meghna-hugo/wiki/Popular-sites-powered-by-Meghna-Hugo). Want to submit your own website powered by Meghna Hugo theme? You can [submit it here](https://github.com/themefisher/meghna-hugo/discussions/174).
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
+
+View all the websites powered by Meghna Hugo from [here](https://gethugothemes.com/showcase?theme=meghna). 
+
+[Submit](https://gethugothemes.com/showcase?submit=show) your Meghna Hugo powered website.
+
 
 <!-- licence -->
 ## License
@@ -138,6 +136,6 @@ If you need to customize the theme or complete website development from scratch,
 <!-- premium themes -->
 ## Premium Themes By Us
 
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=meghna_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.png)](https://gethugothemes.com/products/bizcraft-hugo/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=meghna_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.png)](https://gethugothemes.com/products/bizcraft-hugo/) |
 |:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Bigspring** | **Bizcraft** |
+| **Get 55+ Premium Hugo Themes Bundle** | **Bigspring** | **Bizcraft** |
