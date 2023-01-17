@@ -22,7 +22,6 @@ Disallow: /
 User-agent: *
 Disallow: 
 Crawl-delay: 5
-Disallow: /author/
 Disallow: /tags/
 Disallow: /categories/
 
